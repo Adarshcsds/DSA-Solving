@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
