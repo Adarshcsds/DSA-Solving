@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
