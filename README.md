@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Adarshcsds/DSA-Solving/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Adarshcsds/DSA-Solving/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Adarshcsds/DSA-Solving/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Adarshcsds/DSA-Solving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
