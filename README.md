@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1406-stone-game-iii](https://github.com/Adarshcsds/DSA-Solving/tree/master/1406-stone-game-iii) |
 | [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
+| [3731-find-missing-elements](https://github.com/Adarshcsds/DSA-Solving/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Adarshcsds/DSA-Solving/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshcsds/DSA-Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adarshcsds/DSA-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshcsds/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [3731-find-missing-elements](https://github.com/Adarshcsds/DSA-Solving/tree/master/3731-find-missing-elements) |
 ## Minimax
 |  |
 | ------- |
