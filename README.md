@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1406-stone-game-iii](https://github.com/Adarshcsds/DSA-Solving/tree/master/1406-stone-game-iii) |
 | [2596-check-knight-tour-configuration](https://github.com/Adarshcsds/DSA-Solving/tree/master/2596-check-knight-tour-configuration) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshcsds/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Adarshcsds/DSA-Solving/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Adarshcsds/DSA-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshcsds/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Adarshcsds/DSA-Solving/tree/master/0496-next-greater-element-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshcsds/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Adarshcsds/DSA-Solving/tree/master/3731-find-missing-elements) |
 ## Minimax
 |  |
