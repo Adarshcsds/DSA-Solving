@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshcsds/DSA-Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adarshcsds/DSA-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshcsds/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Adarshcsds/DSA-Solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0707-design-linked-list) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Adarshcsds/DSA-Solving/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Adarshcsds/DSA-Solving/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Adarshcsds/DSA-Solving/tree/master/0901-online-stock-span) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshcsds/DSA-Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adarshcsds/DSA-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshcsds/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Adarshcsds/DSA-Solving/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Adarshcsds/DSA-Solving/tree/master/0496-next-greater-element-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshcsds/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Adarshcsds/DSA-Solving/tree/master/3731-find-missing-elements) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Adarshcsds/DSA-Solving/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Adarshcsds/DSA-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Enumeration
 |  |
