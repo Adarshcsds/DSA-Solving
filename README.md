@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adarshcsds/DSA-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Adarshcsds/DSA-Solving/tree/master/0912-sort-an-array) |
 ## Depth-First Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Adarshcsds/DSA-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshcsds/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Adarshcsds/DSA-Solving/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adarshcsds/DSA-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Adarshcsds/DSA-Solving/tree/master/0496-next-greater-element-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshcsds/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Adarshcsds/DSA-Solving/tree/master/3731-find-missing-elements) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarshcsds/DSA-Solving/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adarshcsds/DSA-Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adarshcsds/DSA-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adarshcsds/DSA-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adarshcsds/DSA-Solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
